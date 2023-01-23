@@ -18,12 +18,28 @@
 - <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Ask me about anything, I am happy to help, only if the ball is in my court!
 - <img src="https://media.giphy.com/media/gicLJtvYJlEh0LSdCl/giphy.gif" width="30px">&nbsp;I’m currently open for: An Intern or a new job opportunity, this is [My Resume](https://drive.google.com/file/d/12k5U8_DgkMPA7ANboSCfP026FzjOwWRQ/view?usp=sharing).
 
+## <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">Connect with me
+<p align="center">
+	<a href="mailto:pearl.rathour33@gmail.com" target="_blank">
+		<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=C13584&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+	</a>
+	<a href="https://www.linkedin.com/in/pearlrathour/" target="_blank">
+		<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+	</a>
+	<a href="https://twitter.com/PearlRathour" target="_blank">
+		<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+	</a>
+	<a href="https://instagram.com/abdo.achhoubi" target="_blank">
+		<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+	</a>
+</p>
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pearlrathour&theme=algolia" alt="pearlrathour" /></p>
 
 <br>
 <br>
+
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Competitive Programming Profiles
@@ -46,26 +62,6 @@
 		<img src=https://img.shields.io/badge/hackerearth-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=hackerearth&logoColor=white alt=hackerrank style="margin-bottom: 5px;" />
 	</a>
 </p>
-
-
-## <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">Connect with me
-<p align="center">
-	<a href="mailto:pearl.rathour33@gmail.com" target="_blank">
-		<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=C13584&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-	</a>
-	<a href="https://www.linkedin.com/in/pearlrathour/" target="_blank">
-		<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-	</a>
-	<a href="https://twitter.com/PearlRathour" target="_blank">
-		<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-	</a>
-	<a href="https://instagram.com/abdo.achhoubi" target="_blank">
-		<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-	</a>
-</p>
-
-
-
 
 ## <img src="https://media.giphy.com/media/1AgViXhq0ZzOZyYfHV/giphy.gif" width="30px">My Skills
 <p align="center"> 
