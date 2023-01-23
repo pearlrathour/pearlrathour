@@ -18,7 +18,7 @@
 - <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Ask me about anything, I am happy to help, only if the ball is in my court!
 - <img src="https://media.giphy.com/media/gicLJtvYJlEh0LSdCl/giphy.gif" width="30px">&nbsp;I’m currently open for: An Intern or a new job opportunity, this is [My Resume](https://drive.google.com/file/d/12k5U8_DgkMPA7ANboSCfP026FzjOwWRQ/view?usp=sharing).
 
-## <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">Connect with me
+## <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>Connect with me
 <p align="center">
 	<a href="mailto:pearl.rathour33@gmail.com" target="_blank">
 		<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=C13584&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
