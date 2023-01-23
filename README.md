@@ -45,8 +45,6 @@
 	<a href="https://codeforces.com/profile/pearlrathour">
 		<img src=https://img.shields.io/badge/codeforces-%2300acee.svg?color=405DE6&style=for-the-badge&logo=codeforces&logoColor=white alt=codeforces style="margin-bottom: 5px;" />
 	</a>
-	
-	</a>
 	<a href=https://www.hackerrank.com/pearl_rathour33>
 		<img src=https://img.shields.io/badge/hackerrank-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=hackerrank&logoColor=white alt=hackerrank style="margin-bottom: 5px;" />
 	</a>
