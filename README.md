@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /><h1 align="center">Hi , I'm Pearl Rathour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1><img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+<p align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /><i><h1>Hi , I'm Pearl Rathour </h1></i><img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /></p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ECE+Student;SIH+2022+Finalist;Competitive+Programmer;Front-end+Developer;DS%20|%20Algorithms%20|%20OOPS%20;Division%204%20on%20Codechef;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
