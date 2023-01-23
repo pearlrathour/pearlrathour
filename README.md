@@ -1,6 +1,6 @@
 <p align="center">
 	<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
-		<h>Hi , I'm Pearl Rathour</h>
+		<h> Hi , I'm Pearl Rathour </h>
 	<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 <p align="center">
