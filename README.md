@@ -32,25 +32,26 @@
 <br>
 
 
-## 👀 My Competitive Programming Profiles
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Competitive Programming Profiles
 <p align="center">
+	<a href="https://www.codechef.com/users/pearlrathour">
+		<img src=https://img.shields.io/badge/codechef-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=codechef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
 	<a href="https://leetcode.com/PearlRathour/">
 		<img src=https://img.shields.io/badge/leetcode-%2300acee.svg?color=C13584&style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
+	</a>
+	<a href=https://auth.geeksforgeeks.org/user/pearlrathour33/>
+		<img src=https://img.shields.io/badge/geeksforgeeks-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=geeksforgeeks&logoColor=white alt=geeksforgeeks style="margin-bottom: 5px;" />
 	</a>
 	<a href="https://codeforces.com/profile/pearlrathour">
 		<img src=https://img.shields.io/badge/codeforces-%2300acee.svg?color=405DE6&style=for-the-badge&logo=codeforces&logoColor=white alt=codeforces style="margin-bottom: 5px;" />
 	</a>
-	<a href="https://www.codechef.com/users/pearlrathour">
-		<img src=https://img.shields.io/badge/codechef-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=codechef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
+	
 	</a>
 	<a href=https://www.hackerrank.com/pearl_rathour33>
 		<img src=https://img.shields.io/badge/hackerrank-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=hackerrank&logoColor=white alt=hackerrank style="margin-bottom: 5px;" />
 	</a>
 	<a href=https://www.hackerearth.com/@pearl37>
 		<img src=https://img.shields.io/badge/hackerearth-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=hackerearth&logoColor=white alt=hackerrank style="margin-bottom: 5px;" />
-	</a>
-	<a href=https://auth.geeksforgeeks.org/user/pearlrathour33/>
-		<img src=https://img.shields.io/badge/geeksforgeeks-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=geeksforgeeks&logoColor=white alt=geeksforgeeks style="margin-bottom: 5px;" />
 	</a>
 </p>
 
