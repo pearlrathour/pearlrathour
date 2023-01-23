@@ -73,7 +73,7 @@
 
 
 
-## 🛠️ My Skills
+##<img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px"> My Skills
 
 ### 👉 Programming languages
 
@@ -181,10 +181,6 @@
 <br/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Github Stats
-
-
-
-  <summary><b>💻 GitHub Stats</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="pearlrathour's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pearlrathour&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
