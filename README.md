@@ -67,7 +67,7 @@
 
 
 
-## <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">My Skills
+## <img src="https://media.giphy.com/media/1AgViXhq0ZzOZyYfHV/giphy.gif" width="30px">My Skills
 <p align="center"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -121,5 +121,5 @@
 -----
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=pearlrathour&label=Profile%20views&color=0e75b6&style=plastic" alt="pearlrathour" /> 
+	Last Edited on: 23/01/2023
 </p>
-Last Edited on: 23/01/2023
