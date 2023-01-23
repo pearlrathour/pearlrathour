@@ -6,13 +6,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ECE+Student;SIH+2022+Finalist;Competitive+Programmer;Front-end+Developer;DS%20|%20Algorithms%20|%20OOPS%20;Division%204%20on%20Codechef;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-
-
 <br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=pearlrathour&label=Profile%20views&color=0e75b6&style=plastic" alt="pearlrathour" /> 
-</p>
 
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
@@ -125,5 +119,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pearlrathour&layout=compact&theme=algolia" alt="pearlrathour" /></a> </p>
 
 -----
-
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=pearlrathour&label=Profile%20views&color=0e75b6&style=plastic" alt="pearlrathour" /> 
+</p>
 Last Edited on: 23/01/2023
