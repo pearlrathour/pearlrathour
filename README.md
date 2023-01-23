@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Pearl Rathour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Electronics+and+Communication+Engineering+Student;;SIH+2022+Finalist;Competitive+Programmer;Front-end+Developer;DS%20|%20Algorithms%20|%20OOP%20;Division%204%20on%20Codechef%20(1%20Stars);Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Electronics+and+Communication+Engineering+Student;;SIH+2022+Finalist;Competitive+Programmer;Front-end+Developer;DS%20|%20Algorithms%20|%20OOP%20;Division%204%20on%20Codechef%20(1%20Star);Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -15,7 +15,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
+- :school: I am a `Sophomore` at National Institute of Technology Hamirpur.
 - :trophy:
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codechef`
