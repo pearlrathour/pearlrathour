@@ -122,5 +122,5 @@
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=pearlrathour&label=Profile%20views&color=0e75b6&style=plastic" alt="pearlrathour" /> 
 	<br>
-	<i>Last Edited on: 23/01/2023</i>
+	Last Edited on: 23/01/2023
 </p>
