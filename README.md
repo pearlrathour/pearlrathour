@@ -17,7 +17,7 @@
 - :computer: I am a competitive programmer mainly at `Codechef`
 - :student: I’m currently learning: `ECE` and `DSA`.
 - :thinking: I’m currently open for: An Intern or a new job opportunity, this is [My Resume](https://drive.google.com/file/d/12k5U8_DgkMPA7ANboSCfP026FzjOwWRQ/view?usp=sharing).
-
+ <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 <br>
 
 ## 🔥 Streak Stats
