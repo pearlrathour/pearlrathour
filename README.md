@@ -13,10 +13,10 @@
 
 ## :sassy_man:  About me
 - :school: I am a `Sophomore` at National Institute of Technology Hamirpur.
-- :trophy: SIH'22 Finalist
+- :trophy: `SIH'22 Finalist`
 - :computer: I am a competitive programmer mainly at `Codechef`
-- :student: I’m currently learning: `Electronics and Communication Engineering` and `DSA`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/12k5U8_DgkMPA7ANboSCfP026FzjOwWRQ/view?usp=sharing).
+- :student: I’m currently learning: Electronics and Communication Engineering and DSA.
+- :thinking: I’m currently open for: An Intern or a new job opportunity, this is [MY RESUME](https://drive.google.com/file/d/12k5U8_DgkMPA7ANboSCfP026FzjOwWRQ/view?usp=sharing).
 
 <br>
 
