@@ -35,7 +35,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Competitive Programming Profiles
 <p align="center">
 	<a href="https://www.codechef.com/users/pearlrathour">
-		<img src=https://img.shields.io/badge/codechef-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=codechef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
+		<img src=https://img.shields.io/badge/codechef-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=html&logoColor=white alt=codechef style="margin-bottom: 5px;" />
 	<a href="https://leetcode.com/PearlRathour/">
 		<img src=https://img.shields.io/badge/leetcode-%2300acee.svg?color=C13584&style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
 	</a>
