@@ -33,18 +33,27 @@
 
 
 ## 👀 My Competitive Programming Profiles
-
 <p align="center">
 	<a href="https://leetcode.com/PearlRathour/">
-		<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/>
+		<img src=https://img.shields.io/badge/leetcode-%2300acee.svg?color=C13584&style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
 	</a>
 	<a href="https://codeforces.com/profile/pearlrathour">
-		<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/>
+		<img src=https://img.shields.io/badge/codeforces-%2300acee.svg?color=405DE6&style=for-the-badge&logo=codeforces&logoColor=white alt=codeforces style="margin-bottom: 5px;" />
 	</a>
 	<a href="https://www.codechef.com/users/pearlrathour">
-		<img src="https://img.icons8.com/color/50/000000/codechef.png" alt="CodeChef"/>
+		<img src=https://img.shields.io/badge/codechef-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=codechef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
+	</a>
+	<a href=https://www.hackerrank.com/pearl_rathour33>
+		<img src=https://img.shields.io/badge/hackerrank-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=hackerrank&logoColor=white alt=hackerrank style="margin-bottom: 5px;" />
+	</a>
+	<a href=https://www.hackerearth.com/@pearl37>
+		<img src=https://img.shields.io/badge/hackerearth-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=hackerearth&logoColor=white alt=hackerrank style="margin-bottom: 5px;" />
+	</a>
+	<a href=https://auth.geeksforgeeks.org/user/pearlrathour33/>
+		<img src=https://img.shields.io/badge/geeksforgeeks-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=geeksforgeeks&logoColor=white alt=geeksforgeeks style="margin-bottom: 5px;" />
 	</a>
 </p>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
@@ -52,7 +61,7 @@
 		<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=C13584&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 	</a>
 	<a href="https://www.linkedin.com/in/pearlrathour/" target="_blank">
-		<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=codechef&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+		<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 	</a>
 	<a href="https://twitter.com/PearlRathour" target="_blank">
 		<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
