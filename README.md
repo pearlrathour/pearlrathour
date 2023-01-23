@@ -48,7 +48,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-	<a href="mailto:falgunisarkar526@gmail.com" target="_blank">
+	<a href="mailto:pearl.rathour33@gmail.com" target="_blank">
 		<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=C13584&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 	</a>
 	<a href="https://www.linkedin.com/in/pearlrathour/" target="_blank">
