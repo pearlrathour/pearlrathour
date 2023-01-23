@@ -48,7 +48,7 @@
 </p>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me
+## <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">Connect with me
 <p align="center">
 	<a href="mailto:pearl.rathour33@gmail.com" target="_blank">
 		<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=C13584&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
