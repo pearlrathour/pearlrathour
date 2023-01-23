@@ -8,20 +8,15 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=pearlrathour&label=Profile%20views&color=0e75b6&style=plastic" alt="pearlrathour" /> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="pearlrathour" target="_blank"/> 
-	</a>
 </p>
 
 
 ## :sassy_man:  About me
 - :school: I am a `Sophomore` at National Institute of Technology Hamirpur.
-- :trophy:
-- :technologist: I love using Software as a solution for every `Problem`
+- :trophy: SIH'22 Finalist
 - :computer: I am a competitive programmer mainly at `Codechef`
-- :student: I’m currently learning: `Electronics and Communication Engineering` and `Software Engineering`.
+- :student: I’m currently learning: `Electronics and Communication Engineering` and `DSA`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/12k5U8_DgkMPA7ANboSCfP026FzjOwWRQ/view?usp=sharing).
-- :nerd_face: Always `learning new things`
 
 <br>
 
