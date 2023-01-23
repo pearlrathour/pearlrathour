@@ -32,7 +32,7 @@
 <br>
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Competitive Programming Profiles
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Competitive Programming Profiles
 <p align="center">
 	<a href="https://www.codechef.com/users/pearlrathour">
 		<img src=https://img.shields.io/badge/codechef-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=codechef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
@@ -54,7 +54,7 @@
 </p>
 
 
-##<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me
 <p align="center">
 	<a href="mailto:pearl.rathour33@gmail.com" target="_blank">
 		<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=C13584&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
