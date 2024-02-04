@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!-- 	<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /> -->
 </p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;SIH+2022+Finalist;Competitive+Programmer;Division%203%20on%20Codechef;DS%20|%20Algorithms%20|%20OOPS%20;ECE+Student&center=true&width=500&height=50&color=50C878"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Competitive+Programmer;Codechef%20(Highest%20rating%201655);SIH+2022+Finalist;DS%20|%20Algorithms%20|%20OOPS%20;ECE+Student&center=true&width=500&height=50&color=50C878"></a>
 </p>
 <br>
 
