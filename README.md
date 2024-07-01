@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 	<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
 <!-- 	<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /> -->
 </p>
+
+<!--
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Competitive+Programmer;Codechef%20(Highest%20rating%201655);SIH+2022+Finalist;DS%20|%20Algorithms%20|%20OOPS%20;ECE+Student&center=true&width=500&height=50&color=50C878"></a>
 </p>
@@ -29,7 +31,17 @@ Here are some ideas to get you started:
   <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=pearlrathour&show_icons=true&theme=dark&count_private=true&title_color=50C878&bg_color=00000000&text_color=a2a2a2" alt="Pearl Rathour's github stats" />
 <img align="right" height="160px"  src="https://github-readme-streak-stats.herokuapp.com?user=pearlrathour&theme=vue-dark&background=00000000" alt="pearlrathour" />
 </p>
+-->
 
+<p align="left">
+ 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pearlrathour&hide=TeX&layout=compact&theme=midnight-purple&&hide_border=false&&count_private=true"/>
+
+ 
+</p>
+
+|<img src="https://github-readme-stats.vercel.app/api?username=pearlrathour&&show_icons=true&&hide_border=false&&theme=midnight-purple&&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=abstrxtinfinity&&theme=midnight-purple&&hide_border=false&&show_icons=true"/>|
+|---|---|
 <br>
 
 ### 🛠 Tech Stack
