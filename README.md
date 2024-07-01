@@ -20,27 +20,26 @@
 |---|---|
 
 ### 🛠 Tech Stack
-![React](https://img.shields.io/badge/react-%23121011.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-%23121011?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/express.js-%23121011.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%23121011.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%23121011.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23121011.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-%23121011?&style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/c-%23121011.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++-%23121011.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23121011.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%23121011.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23121011.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![jQuery](https://img.shields.io/badge/jquery-%23121011.svg?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-%23121011?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![OpenCV](https://img.shields.io/badge/opencv-%23121011.svg?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
+
+![C](https://img.shields.io/badge/c-black.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/c++-black.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=23E34F26)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-black.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![jQuery](https://img.shields.io/badge/jquery-black.svg?style=for-the-badge&logo=jquery&logoColor=%230769AD)&nbsp;
+![React](https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-black.svg?style=for-the-badge&logo=bootstrap&logoColor=238511FA)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?&style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=6DA55F)&nbsp;
+![Express.js](https://img.shields.io/badge/express.js-black.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
+![EJS](https://img.shields.io/badge/ejs-black.svg?style=for-the-badge&logo=ejs&logoColor=hotpink)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=2300f)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-black.svg?style=for-the-badge&logo=mongodb&logoColor=234ea94b)&nbsp;
+![Python](https://img.shields.io/badge/python-black.svg?style=for-the-badge&logo=python&logoColor=%230769AD)&nbsp;
+![OpenCV](https://img.shields.io/badge/opencv-black.svg?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=23F05033)&nbsp;
+![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 <br>
-
-
-
 
 ### 🤝🏻 Connect with me
 <p align="center">
