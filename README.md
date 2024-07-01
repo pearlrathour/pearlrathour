@@ -27,9 +27,9 @@
 ![CSS3](https://img.shields.io/badge/css3-black.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![jQuery](https://img.shields.io/badge/jquery-black.svg?style=for-the-badge&logo=jquery&logoColor=%230769AD)&nbsp;
-![React](https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-black.svg?style=for-the-badge&logo=bootstrap&logoColor=238511FA)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?&style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=6DA55F)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-black.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
 ![EJS](https://img.shields.io/badge/ejs-black.svg?style=for-the-badge&logo=ejs&logoColor=hotpink)&nbsp;
