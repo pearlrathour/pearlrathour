@@ -41,7 +41,7 @@
 ![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 <br>
 
-### 🤝🏻 Connect with me
+<h2 align="left"> 🤝🏻 Connect with me </h2>
 <p align="center">
 	<a href="mailto:pearl.rathour33@gmail.com" target="_blank">
 		<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=D14836&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
