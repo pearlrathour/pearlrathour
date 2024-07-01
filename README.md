@@ -1,20 +1,3 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**pearlrathour/pearlrathour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center">
 	<i><b> Hi , I'm Pearl Rathour </b></i>
 	<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
@@ -27,12 +10,6 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-<p align="center" height="180px">
-  <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=pearlrathour&show_icons=true&theme=dark&count_private=true&title_color=50C878&bg_color=00000000&text_color=a2a2a2" alt="Pearl Rathour's github stats" />
-<img align="right" height="160px"  src="https://github-readme-streak-stats.herokuapp.com?user=pearlrathour&theme=vue-dark&background=00000000" alt="pearlrathour" />
-</p>
--->
-
 <!--
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pearlrathour&hide=TeX&layout=compact&theme=midnight-purple&&hide_border=false&&count_private=true"/>
@@ -41,26 +18,25 @@ Here are some ideas to get you started:
 
 |<img src="https://github-readme-stats.vercel.app/api?username=pearlrathour&&show_icons=true&&hide_border=false&&theme=midnight-purple&&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=pearlrathour&&theme=midnight-purple&&hide_border=false&&show_icons=true"/>|
 |---|---|
-<br>
 
 ### 🛠 Tech Stack
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?&style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-%23121011.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-%23121011?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/express.js-%23121011.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%23121011.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%23121011.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23121011.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-%23121011?&style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/c-%23121011.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/c++-%23121011.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23121011.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%23121011.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23121011.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![jQuery](https://img.shields.io/badge/jquery-%23121011.svg?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-%23121011?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![OpenCV](https://img.shields.io/badge/opencv-%23121011.svg?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
 <br>
 
 
