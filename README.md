@@ -19,7 +19,7 @@
 |<img src="https://github-readme-stats.vercel.app/api?username=pearlrathour&&show_icons=true&&hide_border=false&&theme=midnight-purple&&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=pearlrathour&&theme=midnight-purple&&hide_border=false&&show_icons=true"/>|
 |---|---|
 
-### 🛠 <h2 align="left">  Languages and Tools </h2>
+<h2 align="left"> 🛠 Languages and Tools </h2>
 
 ![C](https://img.shields.io/badge/c-black.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-black.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
