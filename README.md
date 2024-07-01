@@ -32,24 +32,104 @@ Here are some ideas to get you started:
 
 <br>
 
-### 🛠 Tech Stack
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?&style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
+<br>
+
+<h2 align="left">  Languages and Tools: </h2>
+
+
+<!-- <p align="center">
+<code><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30"
+      height="30" /></code>
+<code><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="cplusplus" width="30" height="30" /></code>
+<code><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5" width="30" height="30" /></code>
+<code><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+      width="30" height="30" /></code>
+<code><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
+      height="40" /></code>
+<code><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap" width="30" height="30" /></code>
+<code><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript" width="30" height="30" /></code>
+<code><img
+      src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30" /></code>
+<code><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
+      alt="dart" width="30" height="30" /></code>
+<code><img
+      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30" /></code>
+</p> -->
+
+<p align = "left">
+                <img
+                  src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&amp;logo=c%2B%2B&logoColor=white"
+                  alt="C++"
+                />
+                <img
+                  src="https://img.shields.io/badge/C-black?style=for-the-badge&amp;logo=c"
+                  alt="C"
+                />
+                <img
+                  src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&amp;logo=html5&amp;logoColor=orange"
+                  alt="HTML5"
+                />
+                <img
+                  src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&amp;logo=css3&logoColor=blue"
+                  alt="CSS3"
+                />
+                <img
+                  src="https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&amp;logo=bootstrap"
+                  alt="Bootstrap"
+                />
+                <img
+                  src="https://img.shields.io/badge/Sass-black?style=for-the-badge&amp;&logo=sass&logoColor=pink"
+                  alt="Sass"
+                />
+                <img
+                  src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&amp;logo=javascript"
+                  alt="JavaScript"
+                />
+                <img
+                  src="https://img.shields.io/badge/-Flutter-black?style=for-the-badge&amp;logo=Flutter&amp;logoColor=blue"
+                  alt="Flutter"
+                />
+                <img
+                  src="https://img.shields.io/badge/Dart-black?style=for-the-badge&amp;&logo=dart&logoColor=blue"
+                  alt="Dart"
+                />
+                <img
+                  src="https://img.shields.io/badge/React-black?style=for-the-badge&amp;&logo=react"
+                  alt="React"
+                />
+                <img
+                  src="https://img.shields.io/badge/-Python-black?style=for-the-badge&amp;logo=python"
+                  alt="Python"
+                />
+                <img
+                  src="https://img.shields.io/badge/firebase-black?style=for-the-badge&amp;&logo=firebase&logoColor=yellow"
+                  alt="Firebase"
+                />
+                <img
+                  src="https://img.shields.io/badge/figma-black?style=for-the-badge&amp;&logo=figma&logoColor=yellow"
+                  alt="Figma"
+                />
+                <img
+                  src="https://img.shields.io/badge/-Git-black?style=for-the-badge&amp;logo=git"
+                  alt="Git"
+                />
+                <img
+                  src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&amp;logo=github"
+                  alt="GitHub"
+                />                
+              </p>
+
 <br>
 
 ### 🤝🏻 Connect with me
