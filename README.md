@@ -8,7 +8,7 @@
 
 <p align="center">
 	
-<p>
+<p width="500">
 <h2 align="left"> 🛠 Languages and Tools </h2>
 
 ![C](https://img.shields.io/badge/c-black.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
