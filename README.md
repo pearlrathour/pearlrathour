@@ -42,7 +42,7 @@
 <a href="https://www.instagram.com/pearlrathour/" target="blank">
 	<img align="center" src="https://img.shields.io/badge/-Instagram-DE3859?style=for-the-badge&logo=Instagram&logoColor=white&link" alt="pearlrathour" />&nbsp;&nbsp;
 </a>
-
+<br>
 <!--
 ### ⚙️ &nbsp;My Competitive Programming Profiles
 <p align="center">
@@ -57,5 +57,4 @@
 </p> 
 -->
 
-<br>
- ![Alt text of image](<bar.png>)
+![Alt text of image](<bar.png>)
