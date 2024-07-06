@@ -6,6 +6,12 @@
 
  ![Alt text of image](<bar.png>)
  
+<p align="left">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pearlrathour&hide=TeX&layout=compact&theme=midnight-purple&&hide_border=false&&count_private=true"/>
+</p>
+<p align="right">
+<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47p7mj9h7j8gvv6ebjef2ywd7dlyf4nfepr2fczll7&rid=giphy.gif&ct=g" alt="Coding">
+</p>
 |<img src="https://github-readme-stats.vercel.app/api?username=pearlrathour&&show_icons=true&&hide_border=false&&theme=midnight-purple&&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=pearlrathour&&theme=midnight-purple&&hide_border=false&&show_icons=true"/>|
 |---|---|
 
