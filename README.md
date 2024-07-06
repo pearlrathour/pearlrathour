@@ -57,4 +57,5 @@
 </p> 
 -->
 
+<br>
  ![Alt text of image](<bar.png>)
