@@ -8,7 +8,7 @@
 
 <p align="center">
 	
-<p width="500">
+<p align="left">
 <h2 align="left"> 🛠 Languages and Tools </h2>
 
 ![C](https://img.shields.io/badge/c-black.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
@@ -31,7 +31,7 @@
 ![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp; 
 </p>
 
-<p>	
+<p align="right">	
 <img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47p7mj9h7j8gvv6ebjef2ywd7dlyf4nfepr2fczll7&rid=giphy.gif&ct=g" alt="Coding" height="160" width="230">
 </p>
 </p>
