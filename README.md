@@ -51,7 +51,7 @@
 	</a>
 </p>
 
-<!-- 
+<!--
 ### ⚙️ &nbsp;My Competitive Programming Profiles
 <p align="center">
 	<a href="https://www.codechef.com/users/pearlrathour">
@@ -63,4 +63,6 @@
 	<img src=https://img.shields.io/badge/geeksforgeeks-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=geeksforgeeks&logoColor=white alt=geeksforgeeks style="margin-bottom: 5px;" />
 	</a>
 </p> 
---!>
+-->
+
+ ![Alt text of image](<bar.png>)
