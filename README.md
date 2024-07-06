@@ -1,22 +1,11 @@
- ![Alt text of image](<bar.png>)
 <p align="center">
 	<i><b> Hi , I'm Pearl Rathour </b></i>
 	<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
 <!-- 	<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /> -->
 </p>
 
-<!--
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Competitive+Programmer;Codechef%20(Highest%20rating%201655);SIH+2022+Finalist;DS%20|%20Algorithms%20|%20OOPS%20;ECE+Student&center=true&width=500&height=50&color=50C878"></a>
-</p>
-<br>
-
-<!--
-<p align="left">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pearlrathour&hide=TeX&layout=compact&theme=midnight-purple&&hide_border=false&&count_private=true"/>
-</p>
--->
-
+ ![Alt text of image](<bar.png>)
+ 
 |<img src="https://github-readme-stats.vercel.app/api?username=pearlrathour&&show_icons=true&&hide_border=false&&theme=midnight-purple&&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=pearlrathour&&theme=midnight-purple&&hide_border=false&&show_icons=true"/>|
 |---|---|
 
