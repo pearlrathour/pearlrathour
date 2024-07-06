@@ -40,7 +40,7 @@
 	 <img align="center" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailasbto:pearl.rathour33@gmail.com" alt="pearlarthour" />&nbsp;&nbsp;
  </a>
 <a href="https://www.instagram.com/pearlrathour/" target="blank">
-	<img align="center" src="https://img.shields.io/badge/-pearlrathour-DE3859?style=for-the-badge&logo=Instagram&logoColor=white&link" alt="pearlrathour" />&nbsp;&nbsp;
+	<img align="center" src="https://img.shields.io/badge/-Instagram-DE3859?style=for-the-badge&logo=Instagram&logoColor=white&link" alt="pearlrathour" />&nbsp;&nbsp;
 </a>
 
 <!--
