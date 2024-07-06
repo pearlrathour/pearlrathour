@@ -6,9 +6,9 @@
 
 ![Alt text of image](<bar.png>)
 
-<p align="center">
-	
-<p align="left">
+|<img src="https://github-readme-stats.vercel.app/api?username=pearlrathour&&show_icons=true&&hide_border=false&&theme=midnight-purple&&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=pearlrathour&&theme=midnight-purple&&hide_border=false&&show_icons=true"/>|
+|---|---|
+
 <h2 align="left"> 🛠 Languages and Tools </h2>
 
 ![C](https://img.shields.io/badge/c-black.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
@@ -28,21 +28,7 @@
 ![Python](https://img.shields.io/badge/python-black.svg?style=for-the-badge&logo=python&logoColor=%230769AD)&nbsp;
 ![OpenCV](https://img.shields.io/badge/opencv-black.svg?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=23F05033)&nbsp;
-![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp; 
-</p>
-
-<p align="right">	
-<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47p7mj9h7j8gvv6ebjef2ywd7dlyf4nfepr2fczll7&rid=giphy.gif&ct=g" alt="Coding" height="160" width="230">
-</p>
-</p>
-<!--
-|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pearlrathour&hide=TeX&layout=compact&theme=midnight-purple&&hide_border=false&&count_private=true"/>|<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47p7mj9h7j8gvv6ebjef2ywd7dlyf4nfepr2fczll7&rid=giphy.gif&ct=g" alt="Coding" height="160" width="230">|
-|---|---|
--->
-
-|<img src="https://github-readme-stats.vercel.app/api?username=pearlrathour&&show_icons=true&&hide_border=false&&theme=midnight-purple&&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=pearlrathour&&theme=midnight-purple&&hide_border=false&&show_icons=true"/>|
-|---|---|
-
+![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 <br>
 
 <h2 align="left"> 🤝🏻 Connect with me </h2>
