@@ -1,3 +1,4 @@
+ ![Alt text of image](<bar.png>)
 <p align="center">
 	<i><b> Hi , I'm Pearl Rathour </b></i>
 	<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
