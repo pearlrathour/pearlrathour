@@ -32,14 +32,10 @@
 <br>
 
 <h2 align="left"> 🤝🏻 Connect with me </h2>
-<p align="center">
-	<a href="mailto:pearl.rathour33@gmail.com" target="_blank">
-		<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=D14836&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-	</a>
-	<a href="https://www.linkedin.com/in/pearlrathour/" target="_blank">
-		<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=%230077B5&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-	</a>
-</p>
+
+ <a  href="https://www.linkedin.com/in/pearlarthour/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pearlarthour/" alt="pearlarthour" />&nbsp;&nbsp;</a>
+ <a href="mailto:pearl.rathour33@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-anantverma2001@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailasbto:pearl.rathour33@gmail.com" alt="pearlarthour"  />&nbsp;&nbsp;</a>
+<a href="https://www.instagram.com/pearlrathour/" target="blank"><img align="center" src="https://img.shields.io/badge/-pearlrathour-DE3859?style=for-the-badge&logo=Instagram&logoColor=white&link" alt="pearlrathour"  />&nbsp;&nbsp;</a>
 
 <!--
 ### ⚙️ &nbsp;My Competitive Programming Profiles
