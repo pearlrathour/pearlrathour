@@ -29,6 +29,7 @@
 ![Spring](https://img.shields.io/badge/Spring-black.svg?style=for-the-badge&logo=spring&logoColor=234ea94b)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-black.svg?style=for-the-badge&logo=springboot&logoColor=234ea94b)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-black.svg?style=for-the-badge&logo=docker&logoColor=234ea94b)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-black.svg?style=for-the-badge&logo=redis&logoColor=234ea94b)&nbsp;
 ![Python](https://img.shields.io/badge/python-black.svg?style=for-the-badge&logo=python&logoColor=%230769AD)&nbsp;
 ![OpenCV](https://img.shields.io/badge/opencv-black.svg?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=23F05033)&nbsp;
