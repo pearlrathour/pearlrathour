@@ -34,6 +34,7 @@
 ![OpenCV](https://img.shields.io/badge/opencv-black.svg?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=23F05033)&nbsp;
 ![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-black.svg?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 <br>
 
 <h2 align="left"> 🤝🏻 Connect with me </h2>
