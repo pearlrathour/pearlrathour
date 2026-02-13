@@ -34,6 +34,9 @@
 ![Git](https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=23F05033)&nbsp;
 ![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-black.svg?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Couchbase](https://img.shields.io/badge/Couchbase-black.svg?style=for-the-badge&logo=couchbase&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-black.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Kafka](https://img.shields.io/badge/ApacheKafka-black.svg?style=for-the-badge&logo=apachekafka&logoColor=white)&nbsp;
 <br>
 
 <h2 align="left"> 🤝🏻 Connect with me </h2>
